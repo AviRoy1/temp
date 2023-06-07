@@ -46,3 +46,7 @@ localhost:4000/api/v1/register
 Sends a message.
 HTTP Method: POST
 Body: {senderId, receiverId, message}
+
+<!--  -->
+
+change the port 4000 with your port number
